@@ -1,0 +1,31 @@
+{
+  "name": "0xArchive",
+  "source": "clawhub.ai",
+  "versions": [
+    {
+      "name": "0xArchive",
+      "source": "clawhub.ai",
+      "source_url": "https://clawhub.ai/0xfantommenace/0xarchive",
+      "description": "Query historical crypto market data from 0xArchive across Hyperliquid, Lighter.xyz, and HIP-3. Covers orderbooks, trades, candles, funding rates, open intere...",
+      "author": "@0xfantommenace",
+      "version": "v1.7.0",
+      "stars": 2,
+      "downloads": 693,
+      "license": "MIT-0",
+      "date_updated": "5d ago",
+      "versions_count": 7,
+      "vt_vendor_result": "Benign",
+      "vt_verdict": "HIGH CONFIDENCE",
+      "vt_view_report_url": "https://www.virustotal.com/gui/file/5ab01450898541dea44156713d9cc6497857eab1b31f6542d6de97dacdb04262",
+      "vt_hash": "5ab01450898541dea44156713d9cc6497857eab1b31f6542d6de97dacdb04262",
+      "vt_community_score": "",
+      "openclaw_result": "Benign",
+      "verdict": "HIGH CONFIDENCE",
+      "security_description": "The skill's requirements and runtime instructions match its stated purpose (querying 0xArchive via curl using a single API key); nothing requested or instructed appears unrelated or excessive.",
+      "security_status": "safe",
+      "download_source": "marketplace",
+      "download_status": "success",
+      "recorded_at": "2026-04-23T11:27:54.637494+00:00"
+    }
+  ]
+}

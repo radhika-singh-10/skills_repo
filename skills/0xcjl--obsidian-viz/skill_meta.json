@@ -1,0 +1,31 @@
+{
+  "name": "Obsidian Viz",
+  "source": "clawhub.ai",
+  "versions": [
+    {
+      "name": "Obsidian Viz",
+      "source": "clawhub.ai",
+      "source_url": "https://clawhub.ai/0xcjl/obsidian-viz",
+      "description": "Generate Obsidian-compatible visualization files (Excalidraw / Mermaid / Canvas). Supports text descriptions and image inputs, outputs editable diagrams in O...",
+      "author": "@0xcjl",
+      "version": "v1.0.2",
+      "stars": 2,
+      "downloads": 194,
+      "license": "MIT-0",
+      "date_updated": "1mo ago",
+      "versions_count": 3,
+      "vt_vendor_result": "Benign",
+      "vt_verdict": "HIGH CONFIDENCE",
+      "vt_view_report_url": "https://www.virustotal.com/gui/file/e4dd3b4f9a15e0b01983331a746f97e8498aa4e2f7b50f3fc874dc3f12471164",
+      "vt_hash": "e4dd3b4f9a15e0b01983331a746f97e8498aa4e2f7b50f3fc874dc3f12471164",
+      "vt_community_score": "",
+      "openclaw_result": "Benign",
+      "verdict": "HIGH CONFIDENCE",
+      "security_description": "The skill's files and runtime instructions are internally consistent with its stated purpose of producing Obsidian-compatible diagram files and do not request unrelated credentials or risky installs.",
+      "security_status": "safe",
+      "download_source": "marketplace",
+      "download_status": "success",
+      "recorded_at": "2026-04-23T18:25:37.574547+00:00"
+    }
+  ]
+}

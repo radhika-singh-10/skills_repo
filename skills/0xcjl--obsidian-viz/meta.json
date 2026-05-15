@@ -1,0 +1,80 @@
+{
+  "name": "Obsidian Viz",
+  "slug": "0xcjl--obsidian-viz",
+  "marketplace": "clawhub_ai",
+  "description": "Generate Obsidian-compatible visualization files (Excalidraw / Mermaid / Canvas). Supports text descriptions and image inputs, outputs editable diagrams in O...",
+  "category": "stars",
+  "author": "@0xcjl",
+  "stars": 2,
+  "tags": [],
+  "supported_agents": [],
+  "compatible_with": [],
+  "allowed_tools": "",
+  "version": "v1.0.2",
+  "license": "MIT-0",
+  "first_seen": "2026-04-23T18:25:24.272580+00:00",
+  "page_url": "https://clawhub.ai/0xcjl/obsidian-viz",
+  "download_url": "",
+  "github_url": "https://github.com/openclaw/clawhub",
+  "install_command": "",
+  "downloaded_path": "/Users/joychopda/skill-crawlers/unknown/skills/clawhub_ai/stars/0xcjl--obsidian-viz/obsidian-viz-1.0.2.zip",
+  "download_status": "success",
+  "download_error": "",
+  "scrape_warnings": [],
+  "marketplace_security_scan": {
+    "status": "safe",
+    "source": "marketplace",
+    "findings": [
+      {
+        "title": "VirusTotal",
+        "severity": "INFO",
+        "description": "Benign",
+        "verdict": "HIGH CONFIDENCE",
+        "source_url": "https://www.virustotal.com/gui/file/e4dd3b4f9a15e0b01983331a746f97e8498aa4e2f7b50f3fc874dc3f12471164",
+        "vt_hash": "e4dd3b4f9a15e0b01983331a746f97e8498aa4e2f7b50f3fc874dc3f12471164",
+        "vt_community_score": ""
+      },
+      {
+        "title": "OpenClaw",
+        "severity": "INFO",
+        "description": "Benign",
+        "verdict": "HIGH CONFIDENCE",
+        "source_url": ""
+      }
+    ],
+    "raw_security": [
+      {
+        "vendor": "VirusTotal",
+        "result": "Benign",
+        "verdict": "HIGH CONFIDENCE",
+        "view_report_url": "https://www.virustotal.com/gui/file/e4dd3b4f9a15e0b01983331a746f97e8498aa4e2f7b50f3fc874dc3f12471164"
+      },
+      {
+        "vendor": "OpenClaw",
+        "result": "Benign",
+        "verdict": "HIGH CONFIDENCE",
+        "view_report_url": ""
+      }
+    ]
+  },
+  "security": {
+    "file_hashes": {
+      "obsidian-viz-1.0.2.zip": "e4dd3b4f9a15e0b01983331a746f97e8498aa4e2f7b50f3fc874dc3f12471164"
+    },
+    "file_manifest": [
+      {
+        "path": "obsidian-viz-1.0.2.zip",
+        "size": 32164,
+        "sha256": "e4dd3b4f9a15e0b01983331a746f97e8498aa4e2f7b50f3fc874dc3f12471164",
+        "file_type": ".zip"
+      }
+    ],
+    "has_executable": false,
+    "has_network_calls": false,
+    "has_dangerous_patterns": false,
+    "dependencies": {},
+    "permissions_requested": [],
+    "risk_signals": [],
+    "security_tag": "unscanned"
+  }
+}

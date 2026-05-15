@@ -1,0 +1,80 @@
+{
+  "name": "0xArchive",
+  "slug": "0xfantommenace--0xarchive",
+  "marketplace": "clawhub_ai",
+  "description": "Query historical crypto market data from 0xArchive across Hyperliquid, Lighter.xyz, and HIP-3. Covers orderbooks, trades, candles, funding rates, open intere...",
+  "category": "downloads",
+  "author": "@0xfantommenace",
+  "stars": 2,
+  "tags": [],
+  "supported_agents": [],
+  "compatible_with": [],
+  "allowed_tools": "",
+  "version": "v1.7.0",
+  "license": "MIT-0",
+  "first_seen": "2026-04-23T11:27:42.193172+00:00",
+  "page_url": "https://clawhub.ai/0xfantommenace/0xarchive",
+  "download_url": "",
+  "github_url": "https://github.com/openclaw/clawhub",
+  "install_command": "",
+  "downloaded_path": "/Users/joychopda/skill-crawlers/unknown/skills/clawhub_ai/downloads/0xfantommenace--0xarchive/0xarchive-1.7.0.zip",
+  "download_status": "success",
+  "download_error": "",
+  "scrape_warnings": [],
+  "marketplace_security_scan": {
+    "status": "safe",
+    "source": "marketplace",
+    "findings": [
+      {
+        "title": "VirusTotal",
+        "severity": "INFO",
+        "description": "Benign",
+        "verdict": "HIGH CONFIDENCE",
+        "source_url": "https://www.virustotal.com/gui/file/5ab01450898541dea44156713d9cc6497857eab1b31f6542d6de97dacdb04262",
+        "vt_hash": "5ab01450898541dea44156713d9cc6497857eab1b31f6542d6de97dacdb04262",
+        "vt_community_score": ""
+      },
+      {
+        "title": "OpenClaw",
+        "severity": "INFO",
+        "description": "Benign",
+        "verdict": "HIGH CONFIDENCE",
+        "source_url": ""
+      }
+    ],
+    "raw_security": [
+      {
+        "vendor": "VirusTotal",
+        "result": "Benign",
+        "verdict": "HIGH CONFIDENCE",
+        "view_report_url": "https://www.virustotal.com/gui/file/5ab01450898541dea44156713d9cc6497857eab1b31f6542d6de97dacdb04262"
+      },
+      {
+        "vendor": "OpenClaw",
+        "result": "Benign",
+        "verdict": "HIGH CONFIDENCE",
+        "view_report_url": ""
+      }
+    ]
+  },
+  "security": {
+    "file_hashes": {
+      "0xarchive-1.7.0.zip": "5ab01450898541dea44156713d9cc6497857eab1b31f6542d6de97dacdb04262"
+    },
+    "file_manifest": [
+      {
+        "path": "0xarchive-1.7.0.zip",
+        "size": 6091,
+        "sha256": "5ab01450898541dea44156713d9cc6497857eab1b31f6542d6de97dacdb04262",
+        "file_type": ".zip"
+      }
+    ],
+    "has_executable": false,
+    "has_network_calls": false,
+    "has_dangerous_patterns": false,
+    "dependencies": {},
+    "permissions_requested": [],
+    "risk_signals": [],
+    "security_tag": "unscanned"
+  }
+}

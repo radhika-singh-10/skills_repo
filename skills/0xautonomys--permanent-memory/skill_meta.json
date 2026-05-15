@@ -1,0 +1,31 @@
+{
+  "name": "Auto Memory",
+  "source": "clawhub.ai",
+  "versions": [
+    {
+      "name": "Auto Memory",
+      "source": "clawhub.ai",
+      "source_url": "https://clawhub.ai/0xautonomys/permanent-memory",
+      "description": "Indestructible agent memory — permanently stored, never lost. Save decisions, identity, and context as a memory chain on the Autonomys Network. Rebuild your...",
+      "author": "@0xautonomys",
+      "version": "v1.0.0",
+      "stars": 0,
+      "downloads": 316,
+      "license": "MIT-0",
+      "date_updated": "3w ago",
+      "versions_count": 2,
+      "vt_vendor_result": "Benign",
+      "vt_verdict": "HIGH CONFIDENCE",
+      "vt_view_report_url": "https://www.virustotal.com/gui/file/5353c6cda8305c47da7c362a5f88b5d9a075fab6c26cdc1c90b292a095f82dde",
+      "vt_hash": "5353c6cda8305c47da7c362a5f88b5d9a075fab6c26cdc1c90b292a095f82dde",
+      "vt_community_score": "",
+      "openclaw_result": "Benign",
+      "verdict": "HIGH CONFIDENCE",
+      "security_description": "The skill's code, instructions, and requested credential align with its stated purpose (permanent storage on the Autonomys Auto Drive) and there are no signs of unrelated or covert behaviors.",
+      "security_status": "safe",
+      "download_source": "marketplace",
+      "download_status": "success",
+      "recorded_at": "2026-04-24T07:22:59.449383+00:00"
+    }
+  ]
+}

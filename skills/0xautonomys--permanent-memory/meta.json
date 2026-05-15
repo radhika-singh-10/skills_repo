@@ -1,0 +1,80 @@
+{
+  "name": "Auto Memory",
+  "slug": "0xautonomys--permanent-memory",
+  "marketplace": "clawhub_ai",
+  "description": "Indestructible agent memory \u2014 permanently stored, never lost. Save decisions, identity, and context as a memory chain on the Autonomys Network. Rebuild your...",
+  "category": "installs",
+  "author": "@0xautonomys",
+  "stars": 0,
+  "tags": [],
+  "supported_agents": [],
+  "compatible_with": [],
+  "allowed_tools": "",
+  "version": "v1.0.0",
+  "license": "MIT-0",
+  "first_seen": "2026-04-24T07:22:45.914721+00:00",
+  "page_url": "https://clawhub.ai/0xautonomys/permanent-memory",
+  "download_url": "",
+  "github_url": "https://github.com/autojeremy/openclaw-memory-chain",
+  "install_command": "",
+  "downloaded_path": "/Users/joychopda/skill-crawlers/unknown/skills/clawhub_ai/installs/0xautonomys--permanent-memory/permanent-memory-1.0.0.zip",
+  "download_status": "success",
+  "download_error": "",
+  "scrape_warnings": [],
+  "marketplace_security_scan": {
+    "status": "safe",
+    "source": "marketplace",
+    "findings": [
+      {
+        "title": "VirusTotal",
+        "severity": "INFO",
+        "description": "Benign",
+        "verdict": "HIGH CONFIDENCE",
+        "source_url": "https://www.virustotal.com/gui/file/5353c6cda8305c47da7c362a5f88b5d9a075fab6c26cdc1c90b292a095f82dde",
+        "vt_hash": "5353c6cda8305c47da7c362a5f88b5d9a075fab6c26cdc1c90b292a095f82dde",
+        "vt_community_score": ""
+      },
+      {
+        "title": "OpenClaw",
+        "severity": "INFO",
+        "description": "Benign",
+        "verdict": "HIGH CONFIDENCE",
+        "source_url": ""
+      }
+    ],
+    "raw_security": [
+      {
+        "vendor": "VirusTotal",
+        "result": "Benign",
+        "verdict": "HIGH CONFIDENCE",
+        "view_report_url": "https://www.virustotal.com/gui/file/5353c6cda8305c47da7c362a5f88b5d9a075fab6c26cdc1c90b292a095f82dde"
+      },
+      {
+        "vendor": "OpenClaw",
+        "result": "Benign",
+        "verdict": "HIGH CONFIDENCE",
+        "view_report_url": ""
+      }
+    ]
+  },
+  "security": {
+    "file_hashes": {
+      "permanent-memory-1.0.0.zip": "5353c6cda8305c47da7c362a5f88b5d9a075fab6c26cdc1c90b292a095f82dde"
+    },
+    "file_manifest": [
+      {
+        "path": "permanent-memory-1.0.0.zip",
+        "size": 24322,
+        "sha256": "5353c6cda8305c47da7c362a5f88b5d9a075fab6c26cdc1c90b292a095f82dde",
+        "file_type": ".zip"
+      }
+    ],
+    "has_executable": false,
+    "has_network_calls": false,
+    "has_dangerous_patterns": false,
+    "dependencies": {},
+    "permissions_requested": [],
+    "risk_signals": [],
+    "security_tag": "unscanned"
+  }
+}
